@@ -64,7 +64,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sanyam-sharma](https://www.linkedin.com/in/sanyam-sharma-662653253))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanyam-sharma-662653253)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanyam-Sharma)
 
 ---
