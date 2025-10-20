@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanyam Sharma</h1>
-<h3 align="center">Java Full Stack Developer | IoT & Embedded Systems Enthusiast | Smart India Hackathon 2024 Finalist</h3>
+<h3 align="center">MERN Stack Developer | IoT & Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanyam-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam-sharma" />
